@@ -1,26 +1,26 @@
-| Index |   Machine    |   OS    | Completed? |
-| :---: | :----------: | :-----: | :--------: |
-|   1   |    Bashed    |  Linux  |            |
-|   2   | BountyHunter |  Linux  |            |
-|   3   |  Friendzone  |  Linux  |            |
-|   4   |   Bastion    | Windows |            |
-|   5   |    Return    | Windows |            |
-|   6   |    Heist     | Windows |            |
-|  10   |    Cronos    |  Linux  |            |
-|  11   |  Shibboleth  |  Linux  |            |
-|  12   |   Bastard    | Windows |            |
-|  13   |    Sniper    | Windows |            |
-|  14   |    Alert     |  Linux  |            |
-|  15   |     Cap      |  Linux  |            |
-|  16   |  GoodGames   |  Linux  |            |
-|  17   |  TwoMillion  |  Linux  |            |
-|  18   |   Headless   |  Linux  |            |
-|  19   |    Usage     |  Linux  |            |
-|  20   |  OpenSource  |  Linux  |            |
-|  21   |  Editorial   |  Linux  |            |
-|  22   |   Nineveh    |  Linux  |            |
-|  23   |  Enterprise  |  Linux  |            |
-|  24   |    Forge     |  Linux  |            |
-|  25   |   RedCross   |  Linux  |            |
-|  26   |    Timing    |  Linux  |            |
-|  27   |     Node     |  Linux  |            |
+| Index |   Machine    |   OS    | Difficulty | Completed? |
+| :---: | :----------: | :-----: | :--------: | :--------: |
+|   1   |    Bashed    |  Linux  |            |            |
+|   2   | BountyHunter |  Linux  |            |            |
+|   3   |  Friendzone  |  Linux  |            |            |
+|   4   |   Bastion    | Windows |            |            |
+|   5   |    Return    | Windows |            |            |
+|   6   |    Heist     | Windows |            |            |
+|  10   |    Cronos    |  Linux  |            |            |
+|  11   |  Shibboleth  |  Linux  |            |            |
+|  12   |   Bastard    | Windows |            |            |
+|  13   |    Sniper    | Windows |            |            |
+|  14   |    Alert     |  Linux  |            |            |
+|  15   |     Cap      |  Linux  |            |            |
+|  16   |  GoodGames   |  Linux  |            |            |
+|  17   |  TwoMillion  |  Linux  |            |            |
+|  18   |   Headless   |  Linux  |            |            |
+|  19   |    Usage     |  Linux  |            |            |
+|  20   |  OpenSource  |  Linux  |            |            |
+|  21   |  Editorial   |  Linux  |            |            |
+|  22   |   Nineveh    |  Linux  |            |            |
+|  23   |  Enterprise  |  Linux  |            |            |
+|  24   |    Forge     |  Linux  |            |            |
+|  25   |   RedCross   |  Linux  |            |            |
+|  26   |    Timing    |  Linux  |            |            |
+|  27   |     Node     |  Linux  |            |            |
